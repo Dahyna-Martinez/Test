@@ -3,7 +3,12 @@ using namespace std;
 
 int main(){
 
-cout<< "Hello World!";
-return 0;
+    for(int i = 0; i < 100; i++){
+        cout << i << ") Hello" << endl;
+    }
+
+
+    cout<< "Hello World!";
+    return 0;
 
 }
