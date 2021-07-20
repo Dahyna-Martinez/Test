@@ -7,8 +7,7 @@ int main(){
         cout << i << ") Hello" << endl;
     }
 
-
-    cout<< "Hello World!";
+    cout<< "Goodbye World!";
     return 0;
 
 }
