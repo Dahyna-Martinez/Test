@@ -8,8 +8,10 @@ Practice
 A few useful terminal commands.
 
 `cd [folder]` - Change directory
+
 `ls ` - List file contents
-`clear` - Clear all the contents on the scree
+
+`clear` - Clear all the contents on the screen
 
 ## Git
 
@@ -28,6 +30,8 @@ A few useful terminal commands.
 
 ### Status
 
+What changes have happend most recently? What's up with the local repository *now*
+
 `git status`
 
 ### Staging 
@@ -40,8 +44,11 @@ A few useful terminal commands.
 `git commit`
 
 ### Push
+
 `git push`
 
 ### Git Log
+
+Lists all commits done in this repo
 
 `git log`
